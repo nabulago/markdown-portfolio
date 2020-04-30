@@ -1,0 +1,3 @@
+ - Gather the articles
+ - Find the codes
+ - Merge and replace the codes
