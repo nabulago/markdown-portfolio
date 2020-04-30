@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+ - Gather the articles
+ - Find the codes
+ - Merge and replace the codes
