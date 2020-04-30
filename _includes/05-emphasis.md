@@ -1,1 +1,8 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+ _*Skill set*_
+ - Python
+ - Keras
+ 
+ _*Algorithms*_
+ - Object detection
+ - Object classification
+ - Soft biometrics
